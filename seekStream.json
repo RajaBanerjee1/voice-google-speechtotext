@@ -8,7 +8,7 @@
        "endpoint": [
            {
                 "type": "websocket",
-                "uri": "ws://8f77f2c2.ngrok.io/socket",
+                "uri": "ws://576a9398.ngrok.io/socket",
                 "content-type": "audio/l16;rate=16000",
                 "headers": {
                     "name": "J Doe",
