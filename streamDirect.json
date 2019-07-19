@@ -8,7 +8,7 @@
        "endpoint": [
            {
                 "type": "websocket",
-                "uri": "ws://104.196.180.107/socket",
+                "uri": "ws://34.74.9.117/socket",
                 "content-type": "audio/l16;rate=16000",
                 "headers": {
                     "name": "J Doe",
