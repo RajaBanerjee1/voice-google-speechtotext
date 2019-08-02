@@ -11,9 +11,9 @@
                 "uri": "ws://35.196.171.110/socket",
                 "content-type": "audio/l16;rate=16000",
                 "headers": {
-                 "language": "en-GB",
-                 "callerID": "447700900123"
-                  },           
+                    "language": "en-GB",
+                    "callerID": "447700900123"
+                    }  
                     "system_roles": [183493, 1038492, 22],
                     "enable_auditing": false
                 }
