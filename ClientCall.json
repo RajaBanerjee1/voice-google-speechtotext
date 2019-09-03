@@ -1,0 +1,15 @@
+[
+    {
+        "action": "talk",
+        "text": "Thank you for calling User 1"
+    },
+    {
+        "action": "connect",
+        "endpoint": [
+            {
+                "type": "app",
+                "user": "CL_USER1"
+            }
+        ]
+    }
+]
