@@ -1,0 +1,20 @@
+[           
+     {
+        "action": "talk",
+        "text": "Re Reoute"
+     },
+     {
+       "action": "connect",
+       "endpoint": [
+           {
+                "type": "websocket",
+                "uri": "ws://35.222.141.103:8000/socket",
+                "content-type": "audio/l16;rate=16000",
+                 "headers": {
+                 "language": "en-GB",
+                 "callerID": "447700900123"
+              }
+           }
+       ]
+     }
+]
