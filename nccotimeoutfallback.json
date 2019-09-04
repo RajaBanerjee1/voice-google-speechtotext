@@ -1,0 +1,17 @@
+[           
+     {
+        "action": "talk",
+        "text": "Ding"
+     },
+{
+    "action": "connect",
+    "from": "14155550123",
+    "timeout": "4",
+    "eventType": "synchronous",
+    "eventUrl": ["http://35.222.141.103:8000/nccofallback"],
+    "endpoint": [{
+        "type": "phone",
+        "number": "12035177594"
+    }]
+}
+]
