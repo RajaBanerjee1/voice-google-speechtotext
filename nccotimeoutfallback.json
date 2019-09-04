@@ -8,7 +8,7 @@
     "from": "14155550123",
     "timeout": "4",
     "eventType": "synchronous",
-    "eventUrl": ["http://35.222.141.103:8000/nccofallback"],
+    "eventUrl": ["https://raw.githubusercontent.com/RajaBanerjee1/voice-google-speechtotext/master/ncco.json"],
     "endpoint": [{
         "type": "phone",
         "number": "12035177594"
