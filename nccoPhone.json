@@ -1,0 +1,14 @@
+[           
+     {
+        "action": "talk",
+        "text": "Ding"
+     },
+{
+    "action": "connect",
+    "from": "14155550123",
+    "endpoint": [{
+        "type": "phone",
+        "number": "12035177594"
+    }]
+}
+]
